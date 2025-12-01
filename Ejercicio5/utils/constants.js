@@ -1,0 +1,1 @@
+export const LIBRAS_POR_KILO = 2.20462;
